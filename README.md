@@ -1,2 +1,7 @@
 # probabilistic-modeling-examples
-Matlab code for Probabilistic Modeling
+
+Matlab code for probabilistic modeling examples.
+
+# Examples
+
+ - Markov Chain
