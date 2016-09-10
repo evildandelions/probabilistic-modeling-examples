@@ -1,3 +1,5 @@
+% Goal of code is to find expected value and variance of the distance between two points in the unit circle
+
 tot1 = 0;
 tot2 = 0;
 n = 10000000;

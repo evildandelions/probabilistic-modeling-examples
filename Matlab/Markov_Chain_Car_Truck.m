@@ -1,4 +1,9 @@
-car = 0; 
+
+% A car is followed by a truck with probability 1/3
+% A truck is follwed by a car with probability 1/2
+% Goal of code is to find fracton of cars on a one lane road
+
+car = 0;
 state = 0; % 0 for car, 1 for truck
 n = 10000000;
 for i = 1:n
