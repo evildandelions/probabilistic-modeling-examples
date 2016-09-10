@@ -1,7 +1,8 @@
 # probabilistic-modeling-examples
 
-Matlab code for probabilistic modeling examples.
+Code for probabilistic modeling examples.
 
-# Examples
+# Matlab Examples
 
  - Markov Chain
+ - Average distance between two points
